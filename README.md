@@ -1,3 +1,3 @@
 # git_introduction
 
-# Change made -1 
+# Simple calculator app buid using Python
